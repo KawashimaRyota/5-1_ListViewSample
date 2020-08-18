@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">リスト選択サンプル</string>
+    <string-array name="lv_menu">
+        <item>竜田揚げ定食</item>
+        <item>チーズインハンバーグ定食</item>
+        <item>焼きしゃぶ定食</item>
+        <item>トンテキ定食</item>
+        <item>キノコ炒め定食</item>
+        <item>牛かつ定食</item>
+        <item>メンチカツ定食</item>
+        <item>ミルフィーユかつ定食</item>
+        <item>カニクリームコロッケ定食</item>
+        <item>サバの味噌煮定食</item>
+        <item>焼き鳥定食</item>
+    </string-array>
+</resources>
